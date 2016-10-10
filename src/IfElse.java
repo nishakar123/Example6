@@ -6,7 +6,6 @@ public class IfElse {
 			System.out.println("Arguments");
 		else
 			System.out.println("No Arguments");
-
+		System.out.println("Main Ends");
 	}
-
 }
